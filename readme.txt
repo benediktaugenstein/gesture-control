@@ -6,5 +6,5 @@ CVZone-version: 1.5.5 (other versions may not work)
 
 Louder:
 
-![Alt text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/louder.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/louder.png)
 
