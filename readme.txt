@@ -6,5 +6,5 @@ CVZone-version: 1.5.5 (other versions may not work)
 
 Louder:
 
-![Screenshot](images/louder.png)
+![ScreenShot](images/louder.png)
 
