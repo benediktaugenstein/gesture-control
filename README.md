@@ -8,11 +8,7 @@ Additionally, the program is able to recognize how many fingers are being held u
 
 CVZone-version: 1.5.5 (other versions may not work)
 
-Louder
-
-
-
-
+Louder:
 
 ![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/louder.png)
 
