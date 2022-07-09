@@ -1,4 +1,4 @@
-# gesture-control
+# gesture-contro
 
 The gesture-control.py-script can be used to control the volume of a PC (tested on Windows 11) via hand gestures. If the index finger and thumb are spread, the volume is increased. If they are pressed together, the volume decreases. The silent fox will mute the PC. 
 The script measures relative distances within the hand, not absolute distances in pixels. Therefore, it is not relevant how far away the hand is from the camera.
