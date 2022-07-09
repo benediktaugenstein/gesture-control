@@ -8,7 +8,18 @@ Additionally, the program is able to recognize which hand (right or left) can be
 
 CVZone-version: 1.5.5 (other versions may not work)
 
-Louder:
+Volume up:
 
-![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/louder.png)
+![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/vol_up.png)
+
+Volume down:
+
+![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/vol_down.png)
+
+Mute:
+
+![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/silent_fox.png)
+
+Finger counter:
+![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/fingers_up.png)
 
