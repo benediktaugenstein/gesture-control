@@ -10,7 +10,7 @@ CVZone-version: 1.5.5 (other versions may not work)
 
 Volume up:
 
-![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/vol_up.png)
+![Volume up text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/vol_up.png "test")
 
 Volume down:
 
@@ -21,5 +21,6 @@ Mute:
 ![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/silent_fox.png)
 
 Finger counter:
+
 ![Alt Text](https://raw.githubusercontent.com/benediktaugenstein/gesture-control/main/images/fingers_up.png)
 
